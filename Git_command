@@ -1,0 +1,8 @@
+git init
+git status
+git add
+git commit
+git log 
+git checkout -b (to create a branch)
+git config --global user.name/user.email
+git restore filename
