@@ -1,8 +1,9 @@
 git init
 git status
 git add
-git commit
+git commit -m "Message"
 git log 
 git checkout -b (to create a branch)
 git config --global user.name/user.email
 git restore filename
+git remote -v
